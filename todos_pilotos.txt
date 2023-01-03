@@ -1,0 +1,14 @@
+nome,idade,naturalidade,equipe,pais
+Ayrton Senna,62,SÃ£o Paulo,Toleman,Brasil
+Emerson Fittipaldi,76,SÃ£o Paulo,Lotus,Brasil
+JosÃ© Carlos Pace,78,SÃ£o Paulo,Willys,Brasil
+Lewis Hamilton,37,Stevenage,McLaren,Inglaterra
+Max Verstappen,25,Hasselt,Toro Rosso,BÃ©lgica
+Michael Schumacher,53,HÃ¼rth,Jordan,Alemanha
+Nelson Piquet,70,Rio de Janeiro,Ensign,Brasil
+Rubens Barrichello,50,SÃ£o Paulo,Jordan,Brasil
+Jos Verstappen,50,Montfort,Bennetton,Holanda
+Sebastian Vettel,35,Heppenhein,Sauber,Alemanha
+Nigel Mansell,69,Upton-upon-Severn,Lotus,Inglaterra
+Nico Rosberg,37,Wiesbaden,Williams,Alemanha
+Jenson Button,42,Frome,Williams,Inglaterra
