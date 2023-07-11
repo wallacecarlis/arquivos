@@ -1,14 +1,14 @@
-nome,idade,naturalidade,equipe,pais
-Ayrton Senna,62,SÃ£o Paulo,Toleman,Brasil
-Emerson Fittipaldi,76,SÃ£o Paulo,Lotus,Brasil
-JosÃ© Carlos Pace,78,SÃ£o Paulo,Willys,Brasil
-Lewis Hamilton,37,Stevenage,McLaren,Inglaterra
-Max Verstappen,25,Hasselt,Toro Rosso,BÃ©lgica
-Michael Schumacher,53,HÃ¼rth,Jordan,Alemanha
-Nelson Piquet,70,Rio de Janeiro,Ensign,Brasil
-Rubens Barrichello,50,SÃ£o Paulo,Jordan,Brasil
-Jos Verstappen,50,Montfort,Bennetton,Holanda
-Sebastian Vettel,35,Heppenhein,Sauber,Alemanha
-Nigel Mansell,69,Upton-upon-Severn,Lotus,Inglaterra
-Nico Rosberg,37,Wiesbaden,Williams,Alemanha
-Jenson Button,42,Frome,Williams,Inglaterra
+NOME,IDADE,CIDADE_NASCIMENTO,EQUIPE_F1,PAÍS
+AYRTON SENNA,62,SAO PAULO,TOLEMAN,BRASIL
+EMERSON FITTIPALDI,76,SAO PAULO,LOTUS,BRASIL
+JOSE CARLOS PACE,78,SAO PAULO,WILLYS,BRASIL
+LEWIS HAMILTON,37,STEVENAGE,MCLAREN,INGLATERRA
+MAX VERSTAPPEN,25,HASSELT,TORO ROSSO,BELGICA
+MICHAEL SCHUMACHER,53,HURTH,JORDAN,ALEMANHA
+NELSON PIQUET,70,RIO DE JANEIRO,ENSIGN,BRASIL
+RUBENS BARRICHELLO,50,SAO PAULO,JORDAN,BRASIL
+JOS VERSTAPPEN,50,MONTFORT,BENNETTON,HOLANDA
+SEBASTIAN VETTEL,35,HEPPENHEIN,SAUBER,ALEMANHA
+NIGEL MANSELL,69,UPTON-UPON-SEVERN,LOTUS,INGLATERRA
+NICO ROSBERG,37,WIESBADEN,WILLIAMS,ALEMANHA
+JENSON BUTTON,42,FROME,WILLIAMS,INGLATERRA
